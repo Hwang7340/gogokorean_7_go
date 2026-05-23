@@ -885,7 +885,7 @@ html, body {
   display: inline-flex;
   align-items: center;
   gap: 0.5rem;
-  background: linear-gradient(135deg, var(--accent), var(--accent-dark));
+  background: #FFE66D;
   padding: 0.75rem 1.5rem;
   border-radius: 24px;
   font-weight: 700;

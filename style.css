@@ -100,7 +100,7 @@ html, body {
 
 /* ===== Home Screen ===== */
 #home-screen {
-  background: linear-gradient(180deg, #FFF9F0 0%, #E8F4F8 50%, #FFF9F0 100%);
+  background: var(--bg);
   justify-content: flex-start;
   align-items: center;
   padding: 2rem 1rem;
@@ -179,22 +179,22 @@ html, body {
 }
 
 .btn-primary {
-  background: linear-gradient(135deg, var(--primary), var(--primary-dark));
+  background: var(--primary);
   color: var(--white);
 }
 
 .btn-secondary {
-  background: linear-gradient(135deg, var(--secondary), var(--secondary-dark));
+  background: var(--secondary);
   color: var(--white);
 }
 
 .btn-accent {
-  background: linear-gradient(135deg, var(--accent), var(--accent-dark));
+  background: var(--accent);
   color: var(--text);
 }
 
 .btn-danger {
-  background: linear-gradient(135deg, var(--danger), var(--danger-dark));
+  background: var(--danger);
   color: var(--white);
 }
 

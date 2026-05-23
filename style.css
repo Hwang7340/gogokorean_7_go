@@ -330,7 +330,6 @@ html, body {
   transform: translateX(-50%);
   border-radius: 2px;
   z-index: 0;
-  opacity: 0.25;
 }
 
 .level-node {

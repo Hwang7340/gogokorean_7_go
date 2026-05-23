@@ -189,7 +189,7 @@ html, body {
 }
 
 .btn-accent {
-  background: var(--accent);
+  background: #FFE66D;
   color: var(--text);
 }
 
